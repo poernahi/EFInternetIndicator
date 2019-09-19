@@ -38,7 +38,7 @@ s.ios.deployment_target = '9.0'
 
 #s.public_header_files = 'EFInternetIndicator/Classes/**/*.h'
 s.source_files = 'EFInternetIndicator/Classes/**/*.{c,h,hh,m,mm,swift}'
-s.dependency 'SwiftMessages', '~> 5.0.1'
+s.dependency 'SwiftMessages'
 # s.subspec 'Interface' do |interface|
 #    interface.dependency 'SwiftMessages', :git => 'https://github.com/SwiftKickMobile/SwiftMessages/tree/5.0.1'
 # end
